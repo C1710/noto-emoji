@@ -23,6 +23,16 @@ But now to the original content of this Readme:
 
 Color and Black-and-White Noto emoji fonts, and tools for working with them.
 
+## Installing Blobmoji
+
+### Android
+
+Easiest way is to install [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) and [this module](https://github.com/Magisk-Modules-Repo/magisk-blobmoji) (available under Download section of Magisk Manager).
+
+### Linux
+
+[Follow these instructions](https://victor.kropp.name/blog/emoji-on-linux/), replacing every reference of `Noto Color Emoji` with `Blobmoji`.
+
 ## Building NotoColorEmoji
 
 Building NotoColorEmoji currently requires a Python 2.x wide build.  To build
