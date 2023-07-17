@@ -6,11 +6,11 @@
    id="svg37361"
    sodipodi:docname="emoji_u1f9ea.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview37363"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -20,79 +20,64 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.1210938"
-     inkscape:cx="29.937385"
-     inkscape:cy="96.64825"
+     inkscape:zoom="2.9996795"
+     inkscape:cx="14.16818"
+     inkscape:cy="81.008653"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg37361" />
-  <defs
-     id="defs37341">
-    <linearGradient
-       id="a">
-      <stop
+     inkscape:current-layer="svg37361" /><defs
+     id="defs37341"><linearGradient
+       id="a"><stop
          offset="0"
-         id="stop37336" />
-      <stop
+         id="stop37336" /><stop
          offset="1"
          stop-opacity="0"
-         id="stop37338" />
-    </linearGradient>
-  </defs>
-  <g
+         id="stop37338" /></linearGradient></defs><g
      transform="matrix(0.78191388,0.78191388,-0.78191388,0.78191388,85.505652,-49.001079)"
      id="g37359"
-     style="stroke-width:0.904328">
-    <g
+     style="stroke-width:0.904328"><g
        fill="#ececec"
        fill-opacity="0.837"
        id="g37349"
-       style="stroke-width:0.81781">
-      <path
+       style="stroke-width:0.81781"><path
          d="m 73.626,142.686 a 0.307,0.307 0 0 1 -0.303,0.285 H 45.948 c -0.159,0 -0.278,-0.124 -0.296,-0.278 a 13.998,13.998 0 0 0 -0.014,0.278 13.998,13.998 0 0 0 13.998,13.998 13.998,13.998 0 0 0 14,-13.998 13.998,13.998 0 0 0 -0.01,-0.285 z"
          stroke-width="0.452164"
-         id="path37343" />
-      <path
+         id="path37343" /><path
          d="m 45.638,60.672 v 81.988 c 0,0.172 0.138,0.31 0.31,0.31 h 27.375 a 0.311,0.311 0 0 0 0.313,-0.31 V 60.672 Z"
          stroke-width="0.61856"
-         id="path37345" />
-      <path
+         id="path37345" /><path
          id="path37347"
          d="m 45.326331,54.039283 c -2.724638,0 -4.828943,2.342083 -4.828943,5.066004 0,2.723923 2.105766,5.066005 4.831937,5.066005 h 28.616046 c 2.724638,0 4.831793,-2.342082 4.831793,-5.066005 0,-2.723921 -2.107155,-5.066004 -4.831793,-5.066004 z"
          sodipodi:nodetypes="sssssss"
-         style="stroke-width:0.904328" />
-    </g>
-    <path
+         style="stroke-width:0.904328" /></g><path
        id="path37351"
-       style="fill:#4ec24a;fill-opacity:0.809;stroke-width:0.904328"
+       style="fill:#9ccc68;fill-opacity:0.97254902;stroke-width:0.904328"
        d="m 59.208662,84.277373 c -1.022391,1.171635 -0.868356,3.14863 -2.18485,4.516092 -1.423984,1.479114 -3.10498,1.291083 -4.245695,2.325868 -0.553447,0.502052 -0.717863,1.041176 -0.717863,1.041176 -0.07286,7.840121 -0.268157,15.682841 -0.187825,23.525111 0.03678,9.67078 0.005,19.34553 0.102199,29.01348 0.475245,2.84536 2.817107,5.42658 5.778388,5.6679 2.330689,0.32492 4.981426,0.20531 6.887386,-1.33273 1.343718,-1.17992 2.378368,-2.77883 2.829808,-4.50919 0.131493,-1.57748 -0.01423,-3.16781 0.04972,-4.75087 0.01441,-20.43978 0.04054,-40.878558 0.161585,-61.318038 -0.0332,0.0625 -0.844967,-0.363086 -1.682992,0.237487 -1.290886,0.925119 -1.304613,3.628268 -3.527777,4.282748 -0.917204,0.326964 -2.239692,0.129333 -3.262082,1.300966 z"
-       sodipodi:nodetypes="sssccccccccscss" />
-    <circle
+       sodipodi:nodetypes="sssccccccccscss" /><circle
        r="6.1020002"
        cy="40.715"
        cx="57.355999"
        fill="#34c130"
        fill-opacity="0.706"
        stroke-width="0.452164"
-       id="circle37353" />
-    <circle
+       id="circle37353"
+       style="fill:#9ccc68;fill-opacity:0.97254902" /><circle
        cx="68.610001"
        cy="25.664"
        r="3.661"
        fill="#34c130"
        fill-opacity="0.706"
        stroke-width="0.271298"
-       id="circle37355" />
-    <circle
+       id="circle37355"
+       style="fill:#9ccc68;fill-opacity:0.97254902" /><circle
        r="2.576"
        cy="19.292"
        cx="50.983002"
        fill="#34c130"
        fill-opacity="0.706"
        stroke-width="0.190813"
-       id="circle37357" />
-  </g>
-</svg>
+       id="circle37357"
+       style="fill:#9ccc68;fill-opacity:0.97254902" /></g></svg>
