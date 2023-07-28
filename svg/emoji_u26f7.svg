@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.9996795"
-     inkscape:cx="90.009615"
-     inkscape:cy="67.673895"
+     inkscape:zoom="8.484375"
+     inkscape:cx="106.07735"
+     inkscape:cy="61.760589"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -135,7 +135,8 @@
          transform="rotate(-65.757,72.858,77.606)"
          fill="#7cb342"
          stroke="#7cb342"
-         id="ellipse13174" />
+         id="ellipse13174"
+         style="fill:#7cb342;stroke:#7cb342" />
       <path
          fill="none"
          stroke="#7c7d7d"
@@ -293,7 +294,8 @@
            transform="rotate(-78.609,117.853,57.656)"
            fill="#7cb342"
            stroke="#7cb342"
-           id="ellipse13224" />
+           id="ellipse13224"
+           style="fill:#7cb342;stroke:#7cb342" />
         <path
            fill="none"
            stroke="#7c7d7d"
