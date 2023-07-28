@@ -22,9 +22,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="2.1210938"
-   inkscape:cx="41.016575"
-   inkscape:cy="65.532228"
+   inkscape:zoom="4.2421876"
+   inkscape:cx="54.688765"
+   inkscape:cy="44.316758"
    inkscape:window-width="1366"
    inkscape:window-height="697"
    inkscape:window-x="-8"
@@ -99,8 +99,8 @@
    style="fill:rgb(47,47,47);fill-rule:nonzero;" />
     <path
    id="path7645"
-   d="M 42.183,4.143 C 22.281032,5.7434033 5.648,14.589 5.648,29.138 c 0,4.457 2.508,7.397 8.185,7.397 9.025,0 11.786954,-8.128248 27.871,-11.099 C 64.013509,21.315394 70.677048,21.381262 70.677048,12.517422 70.677048,5.428005 58.195032,2.8554033 42.183,4.143 Z"
-   style="fill:#edf6fc;fill-rule:nonzero"
+   d="M 42.183,4.1625143 C 22.281032,5.8607787 4.6478932,16.452451 4.6478932,29.889958 c 0,4.729536 3.5081068,8.645256 9.1851068,8.645256 9.025,0 10.218154,-7.959622 33.038218,-13.369572 17.902372,-4.244113 23.80583,-4.125799 23.80583,-12.116628 0,-7.5229195 -12.482016,-10.2528302 -28.494048,-8.8864997 z"
+   style="fill:#edf6fc;fill-rule:nonzero;stroke-width:1"
    sodipodi:nodetypes="ssssss" />
     <g
    id="g18"
@@ -177,11 +177,8 @@
    gradientUnits="userSpaceOnUse"
    gradientTransform="matrix(6.65718e-15,108.72,-108.72,6.65718e-15,63.89,9.64)"><stop
      offset="0"
-     style="stop-color:rgb(98,205,234);stop-opacity:1"
+     style="stop-color:#40c0e7;stop-opacity:1;"
      id="stop23592" /><stop
-     offset="0.5"
-     style="stop-color:rgb(138,213,197);stop-opacity:1"
-     id="stop23594" /><stop
      offset="1"
      style="stop-color:rgb(255,238,88);stop-opacity:1"
      id="stop23596" /></linearGradient>
