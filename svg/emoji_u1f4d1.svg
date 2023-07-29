@@ -1,54 +1,214 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,9.78113,0.581)">
-        <path d="M20.966,6.492C20.018,6.492 19.254,7.384 19.254,8.492L19.254,107.068L32.209,120.346L87.472,120.346C88.42,120.346 89.184,119.454 89.184,118.346L89.184,8.492C89.184,7.384 88.42,6.492 87.472,6.492L20.966,6.492Z" style="fill:rgb(255,213,79);fill-rule:nonzero;"/>
-    </g>
-    <g transform="matrix(0.99926,0,0,1.00074,4.24585,0.371219)">
-        <g transform="matrix(1,0,0,1,28.5484,17.976)">
-            <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:6.995px;">@SwiftOnSecurity:</text>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg16358"
+   sodipodi:docname="emoji_u1f4d1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs16362" /><sodipodi:namedview
+   id="namedview16360"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="2.9996795"
+   inkscape:cx="75.508066"
+   inkscape:cy="73.007798"
+   inkscape:window-width="1366"
+   inkscape:window-height="697"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg16358" />
+    
+    <g
+   id="g25535"
+   transform="translate(-0.9999976,-1.0000021)"><g
+     id="g24880"
+     transform="matrix(3.7795276,0,0,3.7795276,-272.22362,-627.66507)"><path
+       id="path20472"
+       d="m 79.621142,169.83331 c -0.40476,0 -0.73277,0.32852 -0.73277,0.73329 v 27.51925 c 0,0.40477 0.32801,0.73277 0.73277,0.73277 h 5.529377 1.54564 12.321204 c 0.40477,0 0.73329,-0.328 0.73329,-0.73277 V 170.5666 c 0,-0.40477 -0.32852,-0.73329 -0.73329,-0.73329 h -12.321204 -1.54564 z"
+       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.264583" /><g
+       transform="matrix(0.26438754,0,0,0.26477912,73.375368,168.26762)"
+       id="g20508"
+       style="clip-rule:evenodd;fill:#2f2f2f;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+        <g
+   transform="translate(28.5484,17.976)"
+   id="g20476"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:6.995px;font-family:ComicNeue-Bold, 'Comic Neue';letter-spacing:0px;fill:#2f2f2f;fill-opacity:1"
+   id="text20474">@DavidGoldmanCNN:</text>
         </g>
-        <g transform="matrix(1,0,0,1,28.5484,26.3555)">
-            <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:5.423px;">Fun f<tspan x="12.467px " y="0px ">a</tspan>ct: Linux doesn&apos;t</text>
+        <g
+   transform="translate(28.5484,26.3555)"
+   id="g20482"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text20480">Google's blob-like emojis,</text>
         </g>
-        <g transform="matrix(1,0,0,1,28.5484,32.0055)">
-            <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:5.423px;">actually support gr<tspan x="44.078px " y="0px ">a</tspan>phics -</text>
+        <g
+   transform="translate(28.5484,32.0055)"
+   id="g20488"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text20486">which look like someone</text>
         </g>
-        <g transform="matrix(1,0,0,1,28.5484,37.6545)">
-            <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:5.423px;">it just zooms out the</text>
+        <g
+   transform="translate(28.5484,37.6545)"
+   id="g20492"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text20490">dropped Bart Simpson in a</text>
         </g>
-        <g transform="matrix(1,0,0,1,28.5484,43.3035)">
-            <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:5.423px;">t<tspan x="1.649px " y="0px ">e</tspan>rminal so all the lett<tspan x="51.931px " y="0px ">e</tspan>rs</text>
+        <g
+   transform="translate(28.5484,43.3035)"
+   id="g20500"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text20498">deep fryer, first appeared</text>
         </g>
-        <g transform="matrix(1,0,0,1,28.5484,48.1174)">
-            <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:5.423px;">look like do<tspan x="26.822px " y="0px ">t</tspan>s.</text>
+        <g
+   transform="translate(28.5484,48.1174)"
+   id="g20506"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0.64553964"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text20504">in 2013.</text>
         </g>
-    </g>
-    <g transform="matrix(0.996985,-0.0775891,0.0775891,0.996985,0.252278,8.93267)">
-        <g transform="matrix(1,0,0,1,-16.1028,-1.25318)">
-            <path d="M124.768,20.951C124.768,19.847 123.872,18.951 122.768,18.951L105.694,18.951C104.59,18.951 103.694,19.847 103.694,20.951L103.694,25.215C103.694,26.319 104.59,27.215 105.694,27.215L122.768,27.215C123.872,27.215 124.768,26.319 124.768,25.215L124.768,20.951Z" style="fill:rgb(66,173,231);fill-opacity:0.68;"/>
+    </g></g><path
+     style="fill:#fcc21b;stroke-width:0.999999"
+     d="m 112.05386,62.424044 c 0,0.566703 -0.34167,1.061405 -0.83656,1.196334 -1.25027,0.332976 -3.82288,0.881499 -7.19599,0.881499 H 93.0654 c -0.431735,0 -0.854513,-0.170834 -1.187338,-0.494702 l -3.660926,-3.499049 c -0.863547,-0.827527 -0.863547,-2.329701 0,-3.157266 l 3.660926,-3.499011 c 0.332976,-0.314835 0.755603,-0.494778 1.187338,-0.494778 h 13.96925 c 1.42121,0 2.75244,-0.269858 3.68795,-0.512693 0.6836,-0.179906 1.34026,0.40475 1.34026,1.196334 v 8.383332 z"
+     id="path24911" /><path
+     style="fill:#42ade7;stroke-width:0.999999"
+     d="m 112.05386,97.034348 c 0,0.5667 -0.34167,1.06144 -0.83656,1.19637 -1.25027,0.33298 -3.82288,0.8815 -7.19599,0.8815 H 93.0654 c -0.431735,0 -0.854513,-0.17083 -1.187338,-0.4947 l -3.660926,-3.49909 c -0.863547,-0.82752 -0.863547,-2.3297 0,-3.15722 l 3.660926,-3.499091 c 0.332976,-0.314835 0.755603,-0.494702 1.187338,-0.494702 h 13.96925 c 1.42121,0 2.75244,-0.269859 3.68795,-0.512731 0.6836,-0.179906 1.34026,0.404787 1.34026,1.196334 v 8.38333 z"
+     id="path24915" /><g
+     id="g24901"
+     transform="matrix(3.7795276,0,0,3.7795276,-360.22365,-635.66507)"><path
+       id="path14113"
+       d="m 100.78781,169.83331 c -0.40476,0 -0.73277,0.32852 -0.73277,0.73329 v 27.51925 c 0,0.40477 0.32801,0.73277 0.73277,0.73277 h 5.52938 1.54564 12.32121 c 0.40477,0 0.73329,-0.328 0.73329,-0.73277 V 170.5666 c 0,-0.40477 -0.32852,-0.73329 -0.73329,-0.73329 h -12.32121 -1.54564 z"
+       style="fill:#eeeeee;fill-opacity:1;stroke-width:0.264583" /><g
+       transform="matrix(0.26438754,0,0,0.26477912,94.676243,168.26762)"
+       id="g16322-3"
+       style="clip-rule:evenodd;fill:#2f2f2f;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+        <g
+   transform="translate(28.5484,17.976)"
+   id="g16290-3"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:6.995px;font-family:ComicNeue-Bold, 'Comic Neue';letter-spacing:0px;fill:#2f2f2f;fill-opacity:1"
+   id="text16288-7"
+   dx="0 0 0 0 0 0.0099999998">@SwiftOnSecurity:</text>
         </g>
-        <g transform="matrix(1,0,0,1,-16.1028,-1.25318)">
-            <path d="M119.11,18.951L119.11,27.215L122.768,27.215C123.876,27.215 124.768,26.323 124.768,25.215L124.768,20.95C124.768,19.842 123.876,18.95 122.768,18.95L119.11,18.951Z" style="fill:rgb(66,173,231);fill-rule:nonzero;"/>
+        <g
+   transform="translate(28.5484,26.3555)"
+   id="g16296-2"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text16294-9">Fun f<tspan
+   x="12.467"
+   y="0"
+   id="tspan16292-3"
+   style="fill:#2f2f2f;fill-opacity:1">a</tspan>ct: Linux doesn't</text>
         </g>
-    </g>
-    <g transform="matrix(0.998121,0.061275,-0.061275,0.998121,5.35041,-6.89411)">
-        <g transform="matrix(1,0,0,1,-16.1212,0.989684)">
-            <path d="M124.768,53.956C124.768,52.852 123.872,51.956 122.768,51.956L105.694,51.956C104.59,51.956 103.694,52.852 103.694,53.956L103.694,58.22C103.694,59.324 104.59,60.22 105.694,60.22L122.768,60.22C123.872,60.22 124.768,59.324 124.768,58.22L124.768,53.956Z" style="fill:rgb(219,68,55);fill-opacity:0.84;"/>
+        <g
+   transform="translate(28.5484,32.0055)"
+   id="g16302-3"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text16300-0">actually support gr<tspan
+   x="44.077999"
+   y="0"
+   id="tspan16298-4"
+   style="fill:#2f2f2f;fill-opacity:1">a</tspan>phics -</text>
         </g>
-        <g transform="matrix(1,0,0,1,-16.1212,0.989684)">
-            <path d="M119.11,51.955L119.11,60.219L122.768,60.219C123.876,60.219 124.768,59.327 124.768,58.219L124.768,53.955C124.768,52.847 123.876,51.955 122.768,51.955L119.11,51.955Z" style="fill:rgb(219,68,55);fill-opacity:0.84;fill-rule:nonzero;"/>
+        <g
+   transform="translate(28.5484,37.6545)"
+   id="g16306-6"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text16304-6">it just zooms out the</text>
         </g>
-    </g>
-    <g transform="matrix(0.999212,-0.0396958,0.0396958,0.999212,-1.41572,4.59812)">
-        <g transform="matrix(1,0,0,1,-16.1388,-0.641147)">
-            <path d="M124.768,78.581C124.768,77.477 123.872,76.581 122.768,76.581L105.694,76.581C104.59,76.581 103.694,77.477 103.694,78.581L103.694,82.845C103.694,83.949 104.59,84.845 105.694,84.845L122.768,84.845C123.872,84.845 124.768,83.949 124.768,82.845L124.768,78.581Z" style="fill:rgb(124,179,66);fill-opacity:0.84;"/>
+        <g
+   transform="translate(28.5484,43.3035)"
+   id="g16314-4"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text16312-2">t<tspan
+   x="1.649"
+   y="0"
+   id="tspan16308-2"
+   style="fill:#2f2f2f;fill-opacity:1">e</tspan>rminal so all the lett<tspan
+   x="51.931"
+   y="0"
+   id="tspan16310-1"
+   style="fill:#2f2f2f;fill-opacity:1">e</tspan>rs</text>
         </g>
-        <g transform="matrix(1,0,0,1,-16.1388,-0.641147)">
-            <path d="M119.11,76.581L119.11,84.845L122.768,84.845C123.876,84.845 124.768,83.953 124.768,82.845L124.768,78.58C124.768,77.472 123.876,76.58 122.768,76.58L119.11,76.581Z" style="fill:rgb(124,179,66);fill-opacity:0.84;fill-rule:nonzero;"/>
+        <g
+   transform="translate(28.5484,48.1174)"
+   id="g16320-7"
+   style="fill:#2f2f2f;fill-opacity:1">
+            <text
+   x="0"
+   y="0.64553964"
+   style="font-weight:700;font-size:5.423px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#2f2f2f;fill-opacity:1"
+   id="text16318-2">look like do<tspan
+   x="26.822001"
+   y="0.64553964"
+   id="tspan16316-1"
+   style="fill:#2f2f2f;fill-opacity:1">t</tspan>s.</text>
         </g>
-    </g>
-    <g transform="matrix(1,0,0,1,5.18713,0.581)">
-        <path d="M33.942,105.71C33.827,105.7 33.711,105.703 33.596,105.719L23.848,107.069L36.803,120.346L35.497,107.469C35.399,106.506 34.737,105.789 33.942,105.711L33.942,105.71Z" style="fill:rgb(247,140,4);fill-rule:nonzero;"/>
-    </g>
+    </g></g><path
+     style="fill:#ed6c30;stroke-width:0.999999"
+     d="m 110.38078,45.870772 c 0,0.566702 -0.34167,1.061442 -0.83653,1.196333 -1.2503,0.332977 -3.82287,0.881538 -7.19599,0.881538 H 91.392317 c -0.431736,0 -0.854514,-0.171213 -1.187339,-0.494741 l -3.660964,-3.499049 c -0.863508,-0.827527 -0.863508,-2.329738 0,-3.157266 l 3.660964,-3.499049 c 0.332976,-0.314834 0.755603,-0.494702 1.187339,-0.494702 h 13.969243 c 1.42126,0 2.75248,-0.269858 3.68799,-0.512731 0.68361,-0.179905 1.34022,0.404788 1.34022,1.196334 v 8.383333 z"
+     id="path24941" /><path
+     style="fill:#bdcf46;stroke-width:0.999999"
+     d="m 110.38078,79.982633 c 0,0.566703 -0.34167,1.061405 -0.83653,1.196334 -1.2503,0.332977 -3.82287,0.881537 -7.19599,0.881537 H 91.392317 c -0.431736,0 -0.854514,-0.171212 -1.187339,-0.49474 l -3.660964,-3.499049 c -0.863508,-0.827565 -0.863508,-2.329701 0,-3.157266 L 90.204978,71.4104 c 0.332976,-0.314834 0.755603,-0.49474 1.187339,-0.49474 h 13.969243 c 1.42126,0 2.75248,-0.269858 3.68799,-0.512693 0.68361,-0.179905 1.34022,0.40475 1.34022,1.196334 v 8.383332 z"
+     id="path24943" /></g>
+    
+    
+    
+    
 </svg>
