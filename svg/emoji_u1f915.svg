@@ -1,1 +1,62 @@
-<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg"><style>.st1{fill:#2f2f2f}.st2{fill:#fff;stroke:#78909c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}</style><path d="M64 9.6C1.7 9.6.2 79.5.2 93.3c0 13.8 28.6 25 63.8 25 35.2 0 63.8-11.2 63.8-25S126.3 9.6 64 9.6z" fill="#fcc21b"/><path class="st1" d="M35.1 51.8c0-1 .2-1.9.4-2.7 1.8-.2 3.8-.5 5.9-1.1 3.2-.8 5.5-2.3 7.3-3.9 2 1.9 3.3 4.8 3.2 8.2-.2 5.6-4.1 10-8.7 9.9-4.7-.2-8.3-4.9-8.1-10.4zM92.9 51.8c0-1-.2-1.9-.4-2.7-1.8-.2-3.8-.5-5.9-1.1-3.2-.8-5.5-2.3-7.3-3.9-2 1.9-3.3 4.8-3.2 8.2.2 5.6 4.1 10 8.7 9.9 4.7-.2 8.3-4.9 8.1-10.4z"/><path class="st2" d="M2 78s49.7-42.7 100-55c0 0-9.7-9.3-25-12 0 0-54-9.7-70 41 0 0-2.7 9-5 26z"/><path class="st2" d="M17.5 32.2s37.3-23.7 78-14c0 0 12.2 7.5 18.5 18.8 0 0-25-5.5-43-4-28 2.3-49.8 9.9-61.8 12.9 0 0 2.4-7.5 8.3-13.7z"/><path d="M49 85s19.7-9.1 38 6" fill="none" stroke="#2f2f2f" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg55002"
+   sodipodi:docname="emoji_u1f915.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs55006" />
+  <sodipodi:namedview
+     id="namedview55004"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.2421875"
+     inkscape:cx="36.41989"
+     inkscape:cy="63.882136"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg55002" />
+  <style
+     id="style54990">.st1{fill:#2f2f2f}.st2{fill:#fff;stroke:#78909c;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}</style>
+  <path
+     d="M64 9.6C1.7 9.6.2 79.5.2 93.3c0 13.8 28.6 25 63.8 25 35.2 0 63.8-11.2 63.8-25S126.3 9.6 64 9.6z"
+     fill="#fcc21b"
+     id="path54992" />
+  <path
+     class="st1"
+     d="M35.1 51.8c0-1 .2-1.9.4-2.7 1.8-.2 3.8-.5 5.9-1.1 3.2-.8 5.5-2.3 7.3-3.9 2 1.9 3.3 4.8 3.2 8.2-.2 5.6-4.1 10-8.7 9.9-4.7-.2-8.3-4.9-8.1-10.4zM92.9 51.8c0-1-.2-1.9-.4-2.7-1.8-.2-3.8-.5-5.9-1.1-3.2-.8-5.5-2.3-7.3-3.9-2 1.9-3.3 4.8-3.2 8.2.2 5.6 4.1 10 8.7 9.9 4.7-.2 8.3-4.9 8.1-10.4z"
+     id="path54994" />
+  <path
+     class="st2"
+     d="M2 78s49.7-42.7 100-55c0 0-9.7-9.3-25-12 0 0-54-9.7-70 41 0 0-2.7 9-5 26z"
+     id="path54996"
+     style="stroke:#6593a2" />
+  <path
+     class="st2"
+     d="M17.5 32.2s37.3-23.7 78-14c0 0 12.2 7.5 18.5 18.8 0 0-25-5.5-43-4-28 2.3-49.8 9.9-61.8 12.9 0 0 2.4-7.5 8.3-13.7z"
+     id="path54998"
+     style="stroke:#6593a2" />
+  <path
+     d="M49 85s19.7-9.1 38 6"
+     fill="none"
+     stroke="#2f2f2f"
+     stroke-width="6"
+     stroke-linecap="round"
+     stroke-miterlimit="10"
+     id="path55000" />
+</svg>
