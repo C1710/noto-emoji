@@ -1,20 +1,129 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
-    <path d="M61.01,64L29.68,86.97L29.68,72.64L0.44,72.64L0.44,55.5L29.68,55.5L29.68,41.03L61.01,64Z" style="fill:rgb(237,108,48);fill-rule:nonzero;"/>
-    <g transform="matrix(1,0,0,1,30.28,0)">
-        <path d="M94.28,9.42C94.28,5.998 91.502,3.22 88.08,3.22L39.92,3.22C36.498,3.22 33.72,5.998 33.72,9.42L33.72,118.57C33.72,121.992 36.498,124.77 39.92,124.77L88.08,124.77C91.502,124.77 94.28,121.992 94.28,118.57L94.28,9.42Z" style="fill:rgb(24,24,24);"/>
+<svg
+   width="128"
+   height="128"
+   style="enable-background:new 0 0 128 128;"
+   version="1.1"
+   id="svg31958"
+   sodipodi:docname="emoji_u1f4f2.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31962" />
+  <sodipodi:namedview
+     id="namedview31960"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.9996795"
+     inkscape:cx="77.17491"
+     inkscape:cy="63.340099"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31958" />
+  <g
+     id="g31956"
+     transform="translate(24.669088)">
+    <g
+       id="g31942">
+      <path
+         d="M 88.46,6.33 C 84.22,4.43 71.85,3.22 64,3.22 c -7.84,0 -20.23,1.21 -24.46,3.11 -4.15,1.86 -5.82,5.54 -5.82,8.99 v 97.35 c 0,3.46 1.67,7.13 5.82,8.99 4.23,1.9 16.62,3.11 24.46,3.11 7.85,0 20.22,-1.21 24.46,-3.11 4.15,-1.86 5.82,-5.54 5.82,-8.99 V 15.33 c 0,-3.46 -1.67,-7.13 -5.82,-9 z"
+         style="fill:#006ca2"
+         id="path31929" />
+      <circle
+         cx="83.064957"
+         cy="10.417487"
+         r="1.99"
+         style="fill:#ffffff"
+         id="circle31933" />
+      <linearGradient
+         id="SVGID_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="63.999699"
+         x2="63.999699"
+         y1="104.7666"
+         y2="22.714399">
+        <stop
+           offset="0"
+           style="stop-color:#FFFFFF"
+           id="stop31935" />
+        <stop
+           offset="1"
+           style="stop-color:#00A0D6"
+           id="stop31937" />
+      </linearGradient>
+      <rect
+         height="92.582588"
+         style="fill:#40c0e7;stroke-width:1"
+         width="49.57"
+         x="39.209999"
+         y="17.443701"
+         id="rect31940" />
     </g>
-    <g transform="matrix(1,0,0,1,30.28,0)">
-        <rect x="35.309" y="9.57" width="57.383" height="107.014" style="fill:rgb(12,94,159);fill-rule:nonzero;"/>
+    <g
+       id="g31954">
+      <path
+         d="m 48.37,102.93 v 0.7 l -1.53,-1.11 1.53,-1.12 v 0.7 0 h 0.88 c 1.72,0 2.83,0.51 2.83,1.99 0,1.49 -1.11,2 -2.83,2 h -1.98 v -0.83 h 1.98 c 1.46,0 2,-0.32 2,-1.17 0,-0.84 -0.53,-1.16 -2,-1.16 z"
+         style="fill:#ffffff"
+         id="path31944" />
+      <path
+         d="m 66.91,105.81 h -5.73 v -2.89 l 2.87,-1.21 2.87,1.21 v 2.89 z m -4.9,-0.84 h 4.07 v -1.51 l -2.03,-0.86 -2.04,0.86 z"
+         style="fill:#ffffff"
+         id="path31946" />
+      <g
+         id="g31952">
+        <path
+           d="m 80.55,105.81 h -4.8 v -3.04 h 4.8 z m -3.96,-0.84 h 3.14 v -1.37 h -3.14 z"
+           style="fill:#ffffff"
+           id="path31948" />
+        <polygon
+           points="81.91,110.1 81.08,110.1 81.08,108.3 77.53,108.3 77.53,107.47 81.91,107.47 "
+           style="fill:#ffffff"
+           id="polygon31950"
+           transform="translate(0,-6)" />
+      </g>
     </g>
-    <g transform="matrix(1,0,0,1,30.28,0)">
-        <path d="M54.121,120.309L73.879,120.309M54.121,6.48L73.879,6.48" style="fill:none;stroke:rgb(40,40,40);stroke-width:1.48px;"/>
+  </g>
+  <g
+     transform="matrix(0.931817,0,0,0.931817,68.012643,32.783028)"
+     id="g32838"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round">
+        <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:17.333px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#ffffff"
+   id="text32836">04:20</text>
+
     </g>
-    <g transform="matrix(0.931817,0,0,0.931817,75.3195,36.036)">
-        <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:17.333px;fill:white;">04:20</text>
+  <g
+     transform="matrix(0.931817,0,0,0.931817,68.012643,45.486528)"
+     id="g32842"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round">
+        <text
+   x="0"
+   y="0"
+   style="font-weight:700;font-size:12px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#ffffff"
+   id="text32840">17.07.</text>
+
     </g>
-    <g transform="matrix(0.931817,0,0,0.931817,75.3195,48.7395)">
-        <text x="0px" y="0px" style="font-family:'ComicNeue-Bold', 'Comic Neue';font-weight:700;font-size:12px;fill:white;">17.07.</text>
-    </g>
+  <path
+     d="M 83.123884,116.59788 H 94.214292 M 83.123884,11.402115 h 11.090408"
+     style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.28;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     id="path32834"
+     sodipodi:nodetypes="cccc" />
+  <path
+     d="M 55.954408,64 29.28018,83.55656 V 71.356059 H 4.3853701 V 56.763137 H 29.28018 V 44.443441 Z"
+     style="clip-rule:evenodd;fill:#ed6c30;fill-rule:nonzero;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round"
+     id="path37817" />
 </svg>
