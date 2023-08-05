@@ -5,13 +5,31 @@
    version="1.1"
    id="svg316"
    sodipodi:docname="emoji_u1f532.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs320" />
+     id="defs320">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.4450852,0,1 @ F,0,1,1,0,1.4450852,0,1 @ F,0,1,1,0,1.4450852,0,1 @ F,0,1,1,0,1.4450852,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
   <sodipodi:namedview
      id="namedview318"
      pagecolor="#ffffff"
@@ -22,10 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.84375"
-     inkscape:cx="105.22034"
-     inkscape:cy="81.084746"
-     inkscape:current-layer="g466" />
+     inkscape:zoom="3.6875"
+     inkscape:cx="63.457627"
+     inkscape:cy="57.898305"
+     inkscape:current-layer="svg316"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <g
      transform="matrix(5.71429,0,0,7.05882,-18.857205,-24.23525)"
      id="g4"
@@ -38,19 +61,14 @@
   <g
      transform="translate(-2.273515,1.04715)"
      id="g12"
-     style="clip-rule:evenodd;fill:#616161;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
-    <path
-       d="M 30.915,7.958 C 25.554,8.085 15,8 12.066,18.857 c -0.581,2.15 -1.578,5.57 0.285,7.423 1.433,1.425 3.932,0.985 5.373,-0.162 1.534,-1.221 2.286,-3.205 3.245,-4.857 1.114,-1.917 2.599,-3.655 4.34,-5.034 1.627,-1.289 3.482,-2.052 5.444,-2.683 1.362,-0.438 3.297,-0.632 3.969,-1.979 C 36,9 32.576,7.869 30.915,7.958 Z"
-       style="fill:#616161"
-       id="path10" />
-  </g>
+     style="clip-rule:evenodd;fill:#616161;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" />
   <g
-     transform="matrix(5.71429,0,0,7.05882,-18.857205,-24.23525)"
+     transform="matrix(5.71429,0,0,7.05882,-18.857159,-30.235275)"
      id="g466"
      style="clip-rule:evenodd;fill:#424242;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
     <path
-       d="m 22.200002,8.5336682 c 0,-1.2510004 -1.255,-2.2670004 -2.8,-2.2670004 H 9.5999981 c -1.545,0 -2.8000002,1.016 -2.8000002,2.2670004 v 7.9326638 c 0,1.251 1.2550002,2.267 2.8000002,2.267 h 9.8000039 c 1.545,0 2.8,-1.016 2.8,-2.267 z"
-       style="fill:#eeeeee"
+       d="M 20.754903,7.1166678 H 8.2450816 c -0.7980977,0 -1.4450837,0.5150359 -1.4450837,1.1503647 V 18.432974 c 0,0.635329 0.646986,1.150366 1.4450837,1.150366 H 20.754903 c 0.798097,0 1.445083,-0.515037 1.445083,-1.150366 V 8.2670325 c 0,-0.6353288 -0.646986,-1.1503647 -1.445083,-1.1503647 z"
+       style="fill:#eeeeee;stroke-width:1"
        id="path464"
        sodipodi:nodetypes="sssssssss" />
   </g>
