@@ -5,7 +5,7 @@
    version="1.1"
    id="svg44756"
    sodipodi:docname="emoji_u1f4f5.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.1210938"
-     inkscape:cx="-0.23572744"
-     inkscape:cy="85.804788"
+     inkscape:zoom="1.4998398"
+     inkscape:cx="34.003631"
+     inkscape:cy="55.005874"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -61,7 +61,8 @@
      fill="#fff"
      id="ellipse44742"
      ry="61.69"
-     rx="61.69" />
+     rx="61.69"
+     style="fill:#196ca2" />
   <path
      d="M64 128C28.71 128 0 99.29 0 64S28.71 0 64 0s64 28.71 64 64-28.71 64-64 64zm0-117.11c-29.29 0-53.11 23.83-53.11 53.11 0 29.29 23.83 53.11 53.11 53.11S117.11 93.29 117.11 64 93.29 10.89 64 10.89z"
      fill="#db4437"
@@ -102,7 +103,7 @@
         </linearGradient>
         <rect
            height="92.582588"
-           style="fill:#ffffff;fill-opacity:1;stroke-width:1"
+           style="fill:#196ca2;fill-opacity:1;stroke-width:1"
            width="49.57"
            x="39.209999"
            y="17.443701"
@@ -112,21 +113,21 @@
          id="g31954">
         <path
            d="m 48.37,102.93 v 0.7 l -1.53,-1.11 1.53,-1.12 v 0.7 0 h 0.88 c 1.72,0 2.83,0.51 2.83,1.99 0,1.49 -1.11,2 -2.83,2 h -1.98 v -0.83 h 1.98 c 1.46,0 2,-0.32 2,-1.17 0,-0.84 -0.53,-1.16 -2,-1.16 z"
-           style="fill:#ffffff"
+           style="fill:#196ca2;fill-opacity:1"
            id="path31944" />
         <path
            d="m 66.91,105.81 h -5.73 v -2.89 l 2.87,-1.21 2.87,1.21 v 2.89 z m -4.9,-0.84 h 4.07 v -1.51 l -2.03,-0.86 -2.04,0.86 z"
-           style="fill:#ffffff"
+           style="fill:#196ca2;fill-opacity:1"
            id="path31946" />
         <g
            id="g31952">
           <path
              d="m 80.55,105.81 h -4.8 v -3.04 h 4.8 z m -3.96,-0.84 h 3.14 v -1.37 h -3.14 z"
-             style="fill:#ffffff"
+             style="fill:#196ca2;fill-opacity:1"
              id="path31948" />
           <polygon
              points="77.53,107.47 81.91,107.47 81.91,110.1 81.08,110.1 81.08,108.3 77.53,108.3 "
-             style="fill:#ffffff"
+             style="fill:#196ca2;fill-opacity:1"
              id="polygon31950"
              transform="translate(0,-6)" />
         </g>
@@ -135,15 +136,11 @@
     <g
        transform="matrix(0.931817,0,0,0.931817,68.012643,32.783028)"
        id="g32838"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round">
-        
-    </g>
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" />
     <g
        transform="matrix(0.931817,0,0,0.931817,68.012643,45.486528)"
        id="g32842"
-       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round">
-        
-    </g>
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round" />
     <path
        d="M 83.123884,116.59788 H 94.214292 M 83.123884,11.402115 h 11.090408"
        style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.28;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
