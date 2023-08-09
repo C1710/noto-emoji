@@ -59,8 +59,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="63.75"
-     inkscape:cy="68.625"
+     inkscape:cx="56.75"
+     inkscape:cy="63.625"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -88,7 +88,8 @@
        style="fill:url(#radialGradient2);stroke:none" />
   </g>
   <g
-     id="g56773">
+     id="g56773"
+     transform="translate(0,3)">
     <ellipse
        transform="matrix(0.11060166,0.99386482,0.99386482,-0.11060166,0,0)"
        ry="18.566364"
@@ -119,7 +120,7 @@
        style="stroke-width:1.00019" />
   </g>
   <path
-     d="M 50.226194,85.129281 H 77.773813"
+     d="M 55.153092,86.129281 H 72.846914"
      fill="none"
      fill-rule="evenodd"
      stroke="#2f2f2f"
