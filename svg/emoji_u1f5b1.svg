@@ -1,1 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"><path d="M58.03 2.19C49.08-1.59 35.96.88 30.71 10.6c-3.6 6.67-3.76 13.16-3.89 18.89-.15 6.28-.27 11.71-4.43 16.91-3.78 4.73-9.87 7.16-18.11 7.22h-.17c-.37 0-.74-.01-1.11-.02-1.47-.07-2.68 1.14-2.68 2.61v.01c0 1.37 1.06 2.54 2.43 2.61.45.02.9.04 1.36.03h.21c9.9-.07 17.36-3.16 22.17-9.19 5.25-6.58 5.41-13.43 5.57-20.06.13-5.64.25-10.96 3.26-16.52C39.16 5.98 49.3 4.19 56 7.02c8.33 3.52 12.75 14.74 12.12 30.78l5.22.2c.73-18.34-4.85-31.39-15.31-35.81z" fill="#2f2f2f"/><path d="M71.14 127.75c-19.83 0-35.9-16.07-35.9-35.9V40.96C35.24 31.04 43.28 23 53.2 23h35.88c9.92 0 17.96 8.04 17.96 17.96v50.89c0 19.83-16.07 35.9-35.9 35.9z" fill="#7e9aa8"/><path d="M78.512 23v40.95c0 2.215 1.784 4 4 4h24.527V40.96C107.04 31.04 99 23 89.08 23H78.512zM53.2 23c-9.92 0-17.96 8.04-17.96 17.96v26.99h24.528c2.216 0 4-1.785 4-4V23H53.199z" fill="#242e3a" stroke-width=".78" stroke-linejoin="round"/><rect width="9.017" height="31.122" x="66.632" y="30.779" rx="4" ry="4" fill="#2b3233" stroke-width=".78" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="emoji_u1f5b1.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.0546875"
+     inkscape:cx="40.693642"
+     inkscape:cy="95.075145"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     d="M58.03 2.19C49.08-1.59 35.96.88 30.71 10.6c-3.6 6.67-3.76 13.16-3.89 18.89-.15 6.28-.27 11.71-4.43 16.91-3.78 4.73-9.87 7.16-18.11 7.22h-.17c-.37 0-.74-.01-1.11-.02-1.47-.07-2.68 1.14-2.68 2.61v.01c0 1.37 1.06 2.54 2.43 2.61.45.02.9.04 1.36.03h.21c9.9-.07 17.36-3.16 22.17-9.19 5.25-6.58 5.41-13.43 5.57-20.06.13-5.64.25-10.96 3.26-16.52C39.16 5.98 49.3 4.19 56 7.02c8.33 3.52 12.75 14.74 12.12 30.78l5.22.2c.73-18.34-4.85-31.39-15.31-35.81z"
+     fill="#2f2f2f"
+     id="path1" />
+  <path
+     d="M71.14 127.75c-19.83 0-35.9-16.07-35.9-35.9V40.96C35.24 31.04 43.28 23 53.2 23h35.88c9.92 0 17.96 8.04 17.96 17.96v50.89c0 19.83-16.07 35.9-35.9 35.9z"
+     fill="#7e9aa8"
+     id="path2" />
+  <path
+     d="m 82.512,23 v 40.95 c 0,2.215 1.784,4 4,4 h 20.527 V 40.96 C 107.04,31.04 99,23 89.08,23 Z M 53.2,23 c -9.92,0 -17.96,8.04 -17.96,17.96 v 26.99 h 20.528 c 2.216,0 4,-1.785 4,-4 V 23 h -6.569 z"
+     fill="#242e3a"
+     stroke-width="0.78"
+     stroke-linejoin="round"
+     id="path3"
+     sodipodi:nodetypes="cssccsccscssccc"
+     style="fill:#2f2f2f;fill-opacity:1" />
+  <rect
+     width="9.017"
+     height="31.122"
+     x="66.632"
+     y="30.779"
+     rx="4"
+     ry="4"
+     fill="#2b3233"
+     stroke-width=".78"
+     stroke-linejoin="round"
+     id="rect3"
+     style="fill:#2f2f2f;fill-opacity:1" />
+</svg>
