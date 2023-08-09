@@ -1,30 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g>
-        <path d="M73.23,79.79L72.89,65.18C72.89,61.17 71.3,59.3 68.72,59.3L49.06,59.29C46.56,59.29 44.23,60.55 42.86,62.64L32.05,80L13.05,83C9.05,84 8.05,86 7.05,90C6.05,94 4.1,103.18 4.1,103.18C3.05,109 6.1,110.02 10.42,110.02L118.13,110.02C121.43,110.02 124.13,109.08 124.13,103.18L124.13,82.88C124.13,80.5 123.69,80.08 121.14,80.07L73.23,79.79Z" style="fill:rgb(247,147,41);fill-rule:nonzero;"/>
-        <path d="M14.34,110.02C14.34,105.75 19.29,99 26.26,99C33.23,99 37.71,105.96 37.71,110.02L14.34,110.02Z" style="fill:rgb(230,86,25);fill-rule:nonzero;"/>
-        <g>
-            <path d="M9.33,101.76L4.46,101.76L6.24,93.59L10.33,93.59C11.43,93.59 12.33,94.49 12.33,95.59L11.33,99.76C11.33,100.86 10.44,101.76 9.33,101.76Z" style="fill:rgb(253,221,78);fill-rule:nonzero;"/>
-        </g>
-        <path d="M40.73,79.75L66.95,79.75C67.93,79.75 68.72,78.96 68.72,77.98L68.72,65.77C68.72,64.79 67.93,64 66.95,64L48.29,64C47.68,64 47.11,64.32 46.79,64.84L39.23,77.05C38.5,78.23 39.34,79.75 40.73,79.75Z" style="fill:rgb(98,192,234);fill-rule:nonzero;"/>
-        <g opacity="0.73">
-            <path d="M72.05,82C72.46,84.25 72.68,86.5 72.83,88.75C72.99,91 73.03,93.25 73.05,95.5C73.03,97.75 72.99,100 72.83,102.25C72.68,104.5 72.47,106.75 72.05,109C71.63,106.75 71.42,104.5 71.27,102.25C71.11,100 71.07,97.75 71.05,95.5C71.07,93.25 71.11,91 71.27,88.75C71.42,86.5 71.64,84.25 72.05,82Z" style="fill:rgb(155,24,24);fill-rule:nonzero;"/>
-        </g>
-        <path d="M122.34,92.66L124.13,92.66L124.13,86.28L122.34,86.28C121.46,86.28 120.74,86.99 120.74,87.88L120.74,91.06C120.74,91.95 121.46,92.66 122.34,92.66Z" style="fill:rgb(253,221,78);fill-rule:nonzero;"/>
-        <path d="M67.83,90.78L63.1,90.78C62.61,90.78 62.21,90.38 62.21,89.89L62.21,89.31C62.21,88.82 62.61,88.42 63.1,88.42L67.83,88.42C68.32,88.42 68.72,88.82 68.72,89.31L68.72,89.89C68.72,90.38 68.32,90.78 67.83,90.78Z" style="fill:rgb(155,24,24);fill-opacity:0.73;fill-rule:nonzero;"/>
-        <path d="M94.38,110.02C94.38,105.75 99.33,99 106.3,99C113.27,99 117.75,105.96 117.75,110.02L94.38,110.02Z" style="fill:rgb(230,86,25);fill-rule:nonzero;"/>
-        <g>
-            <circle cx="26.02" cy="112.07" r="10" style="fill:rgb(43,59,64);"/>
-        </g>
-        <g>
-            <circle cx="26.02" cy="112.07" r="5.65" style="fill:rgb(236,240,241);"/>
-        </g>
-        <g>
-            <circle cx="106.13" cy="112.07" r="10" style="fill:rgb(43,59,64);"/>
-        </g>
-        <g>
-            <circle cx="106.13" cy="112.07" r="5.65" style="fill:rgb(236,240,241);"/>
-        </g>
-    </g>
-</svg>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   style="enable-background:new 0 0 128 128;"
+   xml:space="preserve"
+   sodipodi:docname="pickup truck.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs17"><inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect18"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,7.6863986,0,1 @ F,0,1,1,0,7.6863986,0,1 @ F,0,1,1,0,7.6863986,0,1 @ F,0,0,1,0,7.6863986,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+     radius="0"
+     unit="px"
+     method="auto"
+     mode="F"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="false"
+     hide_knots="false" /><inkscape:path-effect
+     effect="fillet_chamfer"
+     id="path-effect17"
+     is_visible="true"
+     lpeversion="1"
+     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,5.4151719,0,1 @ F,0,1,1,0,5.4151719,0,1 @ F,0,1,1,0,5.4151719,0,1 @ F,0,1,1,0,5.4151719,0,1 @ F,0,1,1,0,5.4151719,0,1 @ F,0,1,1,0,5.4151719,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+     radius="0"
+     unit="px"
+     method="auto"
+     mode="F"
+     chamfer_steps="1"
+     flexible="false"
+     use_knot_distance="true"
+     apply_no_radius="true"
+     apply_with_radius="true"
+     only_selected="false"
+     hide_knots="false" /></defs><sodipodi:namedview
+   id="namedview17"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.0273438"
+   inkscape:cx="59.684008"
+   inkscape:cy="62.396917"
+   inkscape:window-width="1366"
+   inkscape:window-height="697"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />&#10;&#10;&#10;&#10;&#10;<g
+   id="g19"
+   transform="translate(0,-2.7559378)"><g
+     id="g18"
+     transform="translate(3.9324588)"><path
+       id="path1"
+       style="fill:#ed6c30"
+       d="m 59.455713,33.716362 c -2.551721,0.03407 -4.906287,0.128071 -6.706049,0.317031 -7.19904,0.755836 -11.573622,6.084588 -13.915478,9.677912 C 36.49233,47.317021 27.117022,65.127284 27.117022,65.127284 H 11.006711 c -4.2450808,0 -7.6863985,3.441318 -7.6863985,7.686399 v 22.501463 c 0,4.24508 3.4413173,7.686404 7.6863985,7.686404 h 98.121659 c 4.24508,0 7.6864,-3.441324 7.6864,-7.686404 V 72.813683 c 0,-4.245081 -3.44132,-7.686399 -7.6864,-7.686399 H 81.630935 V 37.714339 c 0,-2.341856 -1.424762,-3.507088 -3.518801,-3.593823 -1.570532,-0.06505 -11.001244,-0.506379 -18.656421,-0.404154 z"
+       sodipodi:nodetypes="ssccsssssssscsss" /><path
+       style="fill:#40c0e7"
+       d="m 38.59847,64.639699 c -0.495633,-0.433679 6.257367,-13.109493 7.05038,-14.522047 1.685152,-2.973798 3.494212,-4.844813 5.191755,-5.836079 1.685153,-0.991266 3.271178,-1.139956 5.476745,-1.226691 3.085316,-0.111518 15.451359,0.198253 15.451359,0.198253 0,0 0.123908,16.541751 0,18.164949 -0.111517,1.635589 -0.272598,2.973798 -2.044486,3.085316 -3.642903,0.235426 -10.346339,0.02478 -16.566533,0.06195 -7.484059,0.06195 -14.299013,0.29738 -14.55922,0.07434 z"
+       id="path15"
+       sodipodi:nodetypes="ccccccccc" /></g><path
+     style="fill:#2f2f2f;fill-opacity:1;stroke-width:0.999998"
+     d="m 21.183767,105.71268 c 0.06588,4.04066 3.059777,9.83082 9.940617,9.88206 6.880839,0.0439 10.453019,-5.32899 10.240738,-10.83367 -0.219601,-5.592509 -4.487185,-9.545325 -10.628701,-9.369645 -5.746233,0.16836 -9.640495,4.728745 -9.552654,10.321255 z"
+     id="path3" /><path
+     style="fill:#2f2f2f;fill-opacity:1;stroke-width:0.999998"
+     d="m 86.459032,105.69804 c 0.06588,4.04066 3.220818,9.85278 10.10898,9.8967 6.880838,0.0439 10.453018,-5.32899 10.240738,-10.83367 -0.2196,-5.592509 -4.48718,-9.545325 -10.628703,-9.369645 -5.753553,0.16836 -9.808856,4.706785 -9.721015,10.306615 z"
+     id="path4" /></g>&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;</svg>
