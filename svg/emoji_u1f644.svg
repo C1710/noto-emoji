@@ -36,6 +36,30 @@
          transform="matrix(-0.11059615,-0.99386543,-0.99386543,0.11059615,0,0)"
          id="ellipse4" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3-6">
+      <ellipse
+         cx="-64.818222"
+         cy="-79.057434"
+         rx="16.610579"
+         ry="15.500539"
+         style="fill:#ffffff;stroke-width:1.00003"
+         transform="matrix(-0.11059615,-0.99386543,-0.99386543,0.11059615,0,0)"
+         id="ellipse4-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2-9">
+      <ellipse
+         cx="-46.32"
+         cy="52.362755"
+         rx="15.500487"
+         ry="16.610523"
+         style="fill:#ffffff;stroke-width:1.00003"
+         transform="matrix(-0.99716865,-0.07519764,-0.07519764,0.99716865,0,0)"
+         id="ellipse3-1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview129988"
@@ -48,8 +72,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="51.375"
-     inkscape:cy="65.125"
+     inkscape:cx="67.375"
+     inkscape:cy="73.625"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -77,14 +101,14 @@
      ry="15.500539"
      style="fill:#ffffff;stroke-width:1.00003"
      transform="matrix(-0.11059615,-0.99386543,-0.99386543,0.11059615,0,0)"
-     id="ellipse47" />
+     id="ellipse47-2" />
   <path
-     d="m 91.821122,45.031295 c -0.23,3.3 -3.14,5.82 -6.49,5.62 -3.36,-0.19 -5.9,-3.04 -5.67,-6.34 0.22,-3.31 3.12,-5.82 6.48,-5.62 3.36,0.19 5.91,3.04 5.68,6.34"
+     d="m 86.571122,45.031295 c -0.23,3.3 -3.14,5.82 -6.49,5.62 -3.36,-0.19 -5.9,-3.04 -5.67,-6.34 0.22,-3.31 3.12,-5.82 6.48,-5.62 3.36,0.19 5.91,3.04 5.68,6.34"
      style="fill:#2f2f2f"
-     id="path48"
-     clip-path="url(#clipPath3)"
+     id="path48-5"
+     clip-path="url(#clipPath3-6)"
      sodipodi:nodetypes="ccccc"
-     transform="translate(0,0.01256313)" />
+     transform="translate(0,0.012563)" />
   <ellipse
      cx="-46.320946"
      cy="52.375286"
@@ -92,12 +116,12 @@
      ry="16.610523"
      style="fill:#ffffff;stroke-width:1.00003"
      transform="matrix(-0.99716865,-0.07519764,-0.07519764,0.99716865,0,0)"
-     id="ellipse48" />
+     id="ellipse48-8" />
   <path
-     d="m 48.293228,43.801295 c 0.38,3.29 -2,6.3 -5.34,6.72 -3.34,0.43 -6.36,-1.9 -6.74,-5.18 -0.4,-3.29 1.99,-6.3 5.33,-6.73 3.33,-0.42 6.36,1.91 6.75,5.19"
+     d="m 43.043228,43.801295 c 0.38,3.29 -2,6.3 -5.34,6.72 -3.34,0.43 -6.36,-1.9 -6.74,-5.18 -0.4,-3.29 1.99,-6.3 5.33,-6.73 3.33,-0.42 6.36,1.91 6.75,5.19"
      style="fill:#2f2f2f"
-     id="path49"
-     clip-path="url(#clipPath2)"
+     id="path49-6"
+     clip-path="url(#clipPath2-9)"
      sodipodi:nodetypes="ccccc"
-     transform="translate(0,0.01256313)" />
+     transform="translate(0,0.012563)" />
 </svg>
