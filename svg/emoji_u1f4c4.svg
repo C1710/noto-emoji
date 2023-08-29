@@ -5,7 +5,7 @@
    version="1.1"
    id="svg5372"
    sodipodi:docname="emoji_u1f4c4.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.9996795"
-     inkscape:cx="45.338176"
-     inkscape:cy="73.007798"
+     inkscape:cx="59.673042"
+     inkscape:cy="67.173843"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -41,7 +41,7 @@
        sodipodi:nodetypes="sssssssss" />
     <g
        id="g5343"
-       transform="translate(5.4,-1.47)">
+       transform="translate(5.4,6.53)">
       <path
          d="m 75.329905,41.924055 c -3.317201,0.03787 -8.273116,0.73257 -11.400096,0.73257 -6.561401,0 -9.525943,-1.078072 -14.87483,-1.108594 -4.210523,-0.02403 -11.353772,1.164381 -14.806503,1.260472 -3.14526,0.08753 -9.607013,0.292596 -12.066366,-0.370998 -2.173362,-0.586427 -3.908198,3.850706 -0.626957,4.910497 3.516198,1.135678 7.312256,1.156553 12.261574,1.185041 4.90066,0.02821 11.077437,-1.218483 15.280659,-1.226644 4.458212,-0.0087 8.886989,0.804171 14.682969,0.528762 4.805888,-0.228363 7.109212,-0.827524 10.962138,-0.939705 3.852926,-0.112181 3.904613,-5.009267 0.587412,-4.971401 z"
          style="fill:#2f2f2f;fill-opacity:1"
