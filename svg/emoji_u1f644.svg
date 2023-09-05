@@ -1,1 +1,121 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" id="svg44"><style id="style2">.st2{fill:#fff}</style><path id="path4" d="M63.8 9.5c-62.5 0-64 70.1-64 83.9 0 13.9 28.7 25.1 64 25.1s64-11.2 64-25.1c0-13.8-1.5-83.9-64-83.9z" fill="#fcc21b"/><path id="path6" d="M75.6 94.8h-24c-1.6 0-2.9-1.5-2.9-3.3 0-1.8 1.3-3.3 2.9-3.3h24c1.6 0 2.9 1.5 2.9 3.3 0 1.8-1.3 3.3-2.9 3.3z" fill="#2f2f2f"/><g id="g36"><g id="g20"><ellipse id="ellipse8" ry="16.3" rx="16.6" cy="58.8" cx="87.4" class="st2"/><g id="g18"><defs id="defs11"><ellipse ry="16.3" rx="16.6" cy="58.8" cx="87.4" id="SVGID_1_"/></defs><clipPath id="SVGID_2_"><use height="100%" width="100%" id="use13" xlink:href="#SVGID_1_" overflow="visible"/></clipPath><circle id="circle16" clip-path="url(#SVGID_2_)" r="7.9" cy="47" cx="83.5" fill="#2f2f2f"/></g></g><g id="g34"><ellipse id="ellipse22" ry="16.3" rx="16.6" cy="58.8" cx="40.6" class="st2"/><g id="g32"><defs id="defs25"><ellipse ry="16.3" rx="16.6" cy="58.8" cx="40.6" id="SVGID_3_"/></defs><clipPath id="SVGID_4_"><use height="100%" width="100%" id="use27" xlink:href="#SVGID_3_" overflow="visible"/></clipPath><circle id="circle30" clip-path="url(#SVGID_4_)" r="7.9" cy="47" cx="36.7" fill="#2f2f2f"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   id="svg44"
+   version="1.1"
+   sodipodi:docname="emoji_u1f644.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.3804324"
+     inkscape:cx="101.17049"
+     inkscape:cy="53.247626"
+     inkscape:current-layer="svg44" />
+  <style
+     id="style2">.st2{fill:#fff}</style>
+  <path
+     fill="#fcc21b"
+     d="m 122.35894,78.531941 c 9.83002,-30.02 1.98002,-55.55 -20.69998,-66.309997 C 72.728966,-1.5180561 44.508966,5.5819409 25.898966,24.151943 18.158964,31.871942 11.668967,40.361944 5.3689674,57.211941 c -7.870001,21.04 -4.70000101,39.36 -3.9,44.099999 2.019999,12.17 29.6999986,21.64 62.9699986,21.64 0,0 0.07,-0.01 0.10998,-0.01 0.0299,0 0.07,0.01 0.07,0.01 8.49,0 16.47,-0.63 23.76999,-1.75 0.20002,-0.04 0.43,-0.06 0.64,-0.1 0.08,-0.01 0.15999,-0.02 0.24,-0.04 20.060004,-3.19 34.700004,-10.12 37.660024,-18.43 0.42999,-1.01 0.76996,-2.03 0.87998,-3.079999 0.63999,-6.56 -9.48,-8.67 -5.45,-21.02"
+     id="path1-26"
+     style="stroke-width:0.999999" />
+  <path
+     id="path6"
+     d="M 67.454544,94.018046 43.63068,91.115714 c -1.588258,-0.193489 -2.697321,-1.839689 -2.479647,-3.626479 0.217676,-1.78679 1.689531,-3.118571 3.277788,-2.925083 l 23.823863,2.902332 c 1.588258,0.193489 2.697322,1.839689 2.479647,3.626479 -0.217676,1.78679 -1.68953,3.118574 -3.277787,2.925083 z"
+     fill="#2f2f2f" />
+  <g
+     id="g36"
+     transform="rotate(14.157152,110.03976,84.264526)">
+    <g
+       id="g20">
+      <ellipse
+         id="ellipse8"
+         ry="16.299999"
+         rx="16.6"
+         cy="58.63068"
+         cx="83.820496"
+         class="st2" />
+      <g
+         id="g18"
+         transform="translate(-3.5795031,-0.16931907)">
+        <defs
+           id="defs11">
+          <ellipse
+             ry="16.299999"
+             rx="16.6"
+             cy="58.799999"
+             cx="87.400002"
+             id="SVGID_1_" />
+        </defs>
+        <clipPath
+           id="SVGID_2_">
+          <use
+             height="100%"
+             width="100%"
+             id="use13"
+             xlink:href="#SVGID_1_"
+             overflow="visible" />
+        </clipPath>
+        <circle
+           id="circle16"
+           clip-path="url(#SVGID_2_)"
+           r="7.9000001"
+           cy="47"
+           cx="83.5"
+           fill="#2f2f2f" />
+      </g>
+    </g>
+    <g
+       id="g34">
+      <ellipse
+         id="ellipse22"
+         ry="16.299999"
+         rx="16.6"
+         cy="58.799999"
+         cx="40.599998"
+         class="st2" />
+      <g
+         id="g32">
+        <defs
+           id="defs25">
+          <ellipse
+             ry="16.299999"
+             rx="16.6"
+             cy="58.799999"
+             cx="40.599998"
+             id="SVGID_3_" />
+        </defs>
+        <clipPath
+           id="SVGID_4_">
+          <use
+             height="100%"
+             width="100%"
+             id="use27"
+             xlink:href="#SVGID_3_"
+             overflow="visible" />
+        </clipPath>
+        <circle
+           id="circle30"
+           clip-path="url(#SVGID_4_)"
+           r="7.9000001"
+           cy="47"
+           cx="36.700001"
+           fill="#2f2f2f" />
+      </g>
+    </g>
+  </g>
+</svg>
