@@ -5,7 +5,7 @@
    version="1.1"
    id="svg4648"
    sodipodi:docname="transgender symbol.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.9996795"
-     inkscape:cx="26.169462"
-     inkscape:cy="61.673254"
+     inkscape:cx="46.171599"
+     inkscape:cy="71.507639"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -40,24 +40,25 @@
        id="g4646"
        style="stroke-width:1.59851">
       <path
-         d="m 123.175,5.018 v 41.26 h -16.42 V 5.018 Z"
+         d="m 123.175,5.018 v 41.26 H 105.68509 V 5.018 Z"
          id="path4638"
          sodipodi:nodetypes="ccccc"
          style="stroke-width:1.33694" />
       <path
-         d="M 123.278,21.432 H 82.018 V 5.012 h 41.26 z"
+         d="M 123.278,22.501689 H 82.018 V 5.012 h 41.26 z"
          id="path4640"
          sodipodi:nodetypes="ccccc"
          style="stroke-width:1.33694" />
       <path
-         d="M 114.389,25.414 78.873,60.93 67.263,49.32 102.778,13.804 Z"
+         d="M 114.92415,25.414 79.408152,60.93 66.727835,49.320089 l 35.515005,-35.516 z"
          id="path4642"
          sodipodi:nodetypes="ccccc"
          style="stroke-width:1.33694" />
       <path
-         d="m 77.49,50.7 c -15.96,-15.96 -41.84,-15.96 -57.8,0 -15.96,15.96 -15.96,41.84 0,57.8 15.96,15.96 41.84,15.96 57.8,0 15.96,-15.96 15.96,-41.84 0,-57.8 z M 31.61,96.58 c -9.38,-9.38 -9.38,-24.58 0,-33.96 9.38,-9.38 24.58,-9.38 33.96,0 9.38,9.38 9.38,24.58 0,33.96 -9.37,9.38 -24.58,9.38 -33.96,0 z"
+         d="m 77.49,50.7 c -15.96,-15.96 -41.84,-15.96 -57.8,0 -15.96,15.96 -15.96,41.84 0,57.8 15.96,15.96 41.84,15.96 57.8,0 15.96,-15.96 15.96,-41.84 0,-57.8 z M 33.838461,94.351539 c -8.148966,-8.148966 -8.148966,-21.354112 0,-29.503078 8.148966,-8.148966 21.354112,-8.148966 29.503078,0 8.148966,8.148966 8.148966,21.354112 0,29.503078 -8.140278,8.148961 -21.354112,8.148961 -29.503078,0 z"
          id="path4644"
-         style="stroke-width:1.33694" />
+         style="stroke-width:1.33694"
+         sodipodi:nodetypes="sssssssscs" />
     </g>
     <g
        fill="#fcc21b"
@@ -65,11 +66,12 @@
        transform="translate(-14.91,34.05)"
        style="stroke-width:1.59851">
       <path
-         d="m 71.926,83.696 v 40.31 h -16.86 v -40.31 z"
+         d="m 74.064451,83.696 v 40.31 l -21.136923,-5.3e-4 V 83.695465 Z"
          id="path4771"
-         style="stroke-width:1.33694" />
+         style="stroke-width:1.33694"
+         sodipodi:nodetypes="ccccc" />
       <path
-         d="M 83.65,111.532 H 43.34 v -16.86 h 40.31 z"
+         d="M 85.540912,110.4616 H 41.449088 V 91.998132 l 44.091824,-2.18e-4 z"
          id="path4773"
          sodipodi:nodetypes="ccccc"
          style="stroke-width:1.33694" />
@@ -78,17 +80,17 @@
        id="g6072"
        style="stroke-width:1.33694">
       <path
-         d="m -25.995,5.018 v 41.26 h 16.42 V 5.018 Z"
+         d="m -25.995,5.018 v 41.26 H -8.6387875 V 5.018 Z"
          id="path4939"
          sodipodi:nodetypes="ccccc"
          style="fill:#fcc21b;stroke-width:1.33694" />
       <path
-         d="m -26.098,21.432 h 41.26 V 5.012 h -41.26 z"
+         d="m -26.098,22.501689 h 41.26 V 5.012 h -41.26 z"
          id="path4941"
          sodipodi:nodetypes="ccccc"
          style="fill:#fcc21b;stroke-width:1.33694" />
       <path
-         d="m -17.202916,25.699787 35.516,35.516 11.61,-11.61 -35.515,-35.516 z"
+         d="m -17.603696,25.699787 35.516,35.516 12.545631,-11.61 -35.5149999,-35.516 z"
          id="path4943"
          sodipodi:nodetypes="ccccc"
          style="fill:#fcc21b;stroke-width:1.33694" />
