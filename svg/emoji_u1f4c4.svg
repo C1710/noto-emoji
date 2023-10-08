@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.9996795"
-     inkscape:cx="59.673042"
-     inkscape:cy="67.173843"
+     inkscape:cx="59.506357"
+     inkscape:cy="66.840474"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -71,7 +71,7 @@
          d="m 75.17,1.98 c 5.04,1.89 8.31,9.51 8.97,20.79 0.11,1.84 1.61,3.29 3.45,3.38 8.97,0.4 19.99,1.71 22.66,7.06 0,0 0,-5.17 -13.12,-18.42 C 84.97,2.52 75.17,1.98 75.17,1.98 Z"
          fill="#b0bec5"
          id="path5368"
-         style="fill:#93b1bb" />
+         style="fill:#bdbdbd;fill-opacity:1" />
     </g>
   </g>
 </svg>
