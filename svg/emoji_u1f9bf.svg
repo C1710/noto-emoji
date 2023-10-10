@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
 <svg
-   version="1.1"
-   id="Layer_4"
-   x="0px"
-   y="0px"
+   width="100%"
+   height="100%"
    viewBox="0 0 128 128"
-   style="enable-background:new 0 0 128 128;"
+   version="1.1"
    xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"
+   id="svg10"
    sodipodi:docname="emoji_u1f9bf.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs29715" /><sodipodi:namedview
-   id="namedview29713"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview10"
    pagecolor="#ffffff"
    bordercolor="#000000"
    borderopacity="0.25"
@@ -24,206 +21,48 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   showgrid="false"
-   inkscape:zoom="2.1210938"
-   inkscape:cx="50.209945"
-   inkscape:cy="71.661142"
+   inkscape:zoom="2.0273438"
+   inkscape:cx="31.321773"
+   inkscape:cy="79.16763"
    inkscape:window-width="1366"
    inkscape:window-height="697"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_4" />
-<g
-   id="g29710">
-	<path
-   style="fill:#212121;fill-opacity:1"
-   d="M39.1,37.54l13.02-7.72c0,0,3.81,3.35,3.72,3.53c-0.09,0.19-12.48,8.19-12.48,8.19L39.1,37.54z"
-   id="path29621" />
-	<g
-   id="g29625">
-		
-			<rect
-   x="52.4"
-   y="51.58"
-   transform="matrix(0.9324 -0.3613 0.3613 0.9324 -25.9395 25.194)"
-   style="fill:#4b6b75;fill-opacity:1"
-   width="4"
-   height="60.76"
-   id="rect29623" />
-	</g>
-	
-	<path
-   style="fill:#6593a2;fill-opacity:1"
-   d="M64.89,96.26c-4.06-12.69-3.72-20.12-6.82-24.9c-3.1-4.77-6.07-4.8-7.15-8.03   c-0.05-0.14-0.06-0.28-0.09-0.41c-0.32-1.67,0.92-2.94,2.56-5.42c1.1-1.55,3.71-4.52,1.21-11.81c-3.31-6.75-10.59-10.95-19.45-7.43   c-6.75,2.68-10.99,10.54-8.95,18.68c0.76,3.03,1.88,6.2,3.87,9.19c3.17,4.77,21.18,29.66,24.28,34.58c0.59,0.94,1.9,2.58,6.93,0.8   C65.52,100.03,65.08,96.87,64.89,96.26z M57.94,96.09L46.5,73.93c0,0,8.27,2.48,10.17,5.49c2.61,4.13,4.19,15.48,4.19,15.48   L57.94,96.09z"
-   id="path29629" />
-	<path
-   id="path29631"
-   style="fill:#6593a2;fill-opacity:1"
-   d="M 74.089844 108.66016 L 58.75 110.09961 C 57.750001 110.51961 57.530781 112.09945 57.300781 112.43945 C 56.390782 113.75945 54.819764 114.93008 53.509766 115.83008 C 50.339769 118.01008 46.599293 118.86023 42.779297 118.49023 C 41.589298 118.38023 40.320546 118.42078 39.310547 119.05078 C 38.775551 119.38122 38.428376 120.105 38.53125 120.89648 C 38.529758 120.89565 38.520791 120.89136 38.519531 120.89062 C 38.669531 122.11062 39.899769 123.49938 43.259766 123.85938 C 49.879759 124.55937 55.359223 124.00961 59.449219 122.84961 C 63.139215 121.79961 65.270785 123.1007 68.800781 123.4707 C 71.960778 123.8007 74.740236 123.01078 75.990234 120.05078 C 76.110235 119.76843 76.286448 119.20036 76.402344 118.81836 C 76.4033 118.81521 76.403354 118.81366 76.404297 118.81055 C 76.449998 118.68901 76.491172 118.56219 76.529297 118.42969 C 77.389296 115.44969 76.759296 111.64914 76.029297 109.86914 C 75.699297 109.08914 74.919843 108.60016 74.089844 108.66016 z " />
-	
-	
-	<path
-   style="fill:#90A4AE;"
-   d="M71.28,106.04c-1.38-2.19-3.85-3.55-6.44-3.55c0,0-1.11-0.05-2.61,0.41   c-1.5,0.46-2.49,1.26-2.49,1.26l-1.23-0.92c0,0-1.49,0.77-2.44,2.12c-1.92,2.73-1.89,6.28-0.32,8.69c1.36-1.01,2.99,0.65,3.38,1.07   c0.46,0.51,0.98,0.97,1.55,1.35c2.04,1.34,4.67,1.61,6.94,0.72C72,115.48,73.8,110.02,71.28,106.04z"
-   id="path29637" />
-	<g
-   id="g29641">
-		
-	</g>
-	<path
-   style="fill:#93b1bb;fill-opacity:1"
-   d="M96.76,45.34L88,39.79c0.99-2.25,0.75-4.86,0.16-7.25c-1-4.05-2.99-7.93-6.08-10.73   c-3.09-2.8-7.34-4.44-11.48-3.96c-2.18,0.26-4.26,1.08-6.22,2.07C56.31,24,35.73,38.05,35.73,38.05s2.84-1.17,6.98-1l5.58-3.58   c2.34-1.47,4.15,0,2.04,1.42c-0.87,0.59-11.09,6.79-12.55,7.64c-5.66,3.29-7.57,10.54-4.28,16.2c2.87,4.94,8.76,7.03,13.98,5.29   C48.22,63.77,96.76,45.34,96.76,45.34z"
-   id="path29643" />
-	<polygon
-   style="opacity:0.39;fill:#212121;"
-   points="72.07,19.71 72.07,19.71 72.07,19.71  "
-   id="polygon29645" />
-	<g
-   id="g29660">
-		
-		<radialGradient
-   id="SVGID_1_"
-   cx="40.4245"
-   cy="50.2573"
-   r="7.5076"
-   gradientUnits="userSpaceOnUse">
-			<stop
-   offset="0.2244"
-   style="stop-color:#FFFFFF"
-   id="stop29649" />
-			<stop
-   offset="0.9855"
-   style="stop-color:#BEBEBE"
-   id="stop29651" />
-			<stop
-   offset="1"
-   style="stop-color:#BDBDBD"
-   id="stop29653" />
-		</radialGradient>
-		<circle
-   style="fill:#e0e0e0;fill-opacity:1"
-   cx="43.36"
-   cy="52.9"
-   r="5.65"
-   id="circle29656" />
-		<ellipse
-   style="fill:#9e9e9e;fill-opacity:1"
-   cx="44.01"
-   cy="53.69"
-   rx="4.91"
-   ry="4.88"
-   id="ellipse29658" />
-	</g>
-	<path
-   style="fill:#afc7cf"
-   d="M35.72,59.47c-3.29-5.66-0.18-12.06,5.38-15.51c4.51-2.81,33.72-20.45,41.59-21.55   c-0.2-0.2-0.39-0.41-0.61-0.6c-3.09-2.8-7.34-4.44-11.48-3.96c-2.18,0.26-4.26,1.08-6.22,2.07C56.31,24,35.73,38.05,35.73,38.05   s2.72-1.28,6.98-1l5.58-3.58c2.34-1.47,4.15,0,2.04,1.42c-0.87,0.59-11.09,6.79-12.55,7.64c-5.66,3.29-7.57,10.54-4.28,16.2   c1.72,2.96,4.52,4.88,7.61,5.58C38.92,63.34,37.02,61.7,35.72,59.47z"
-   id="path29662" />
-	
-	<path
-   style="fill:#6593a2;fill-opacity:1"
-   d="M83.93,4.5C67.48,7.33,60.87,21.93,60.87,21.93s6.2-2.66,7.59,3.56   c2.76,16.1,12.33,23.93,24.01,21.93c11.68-2.01,19.53-13.1,17.52-24.78S99.28,1.87,83.93,4.5z"
-   id="path29666" />
-	<path
-   style="fill:#466B7D;"
-   d="M106.62,26.28c-0.57-3.29-2.12-6.16-4.3-8.38c0,0,0,0,0,0c-6.39-6.49-15.18-6.69-20.83-2.15   c-7.64,6.14-10.08,19.76,1.85,26.94c0,0,0,0,0,0l0,0C95.11,49.24,108.81,38.97,106.62,26.28z"
-   id="path29668" />
-	<circle
-   style="fill:#9e9e9e;fill-opacity:1"
-   cx="92.01"
-   cy="26.78"
-   r="15.71"
-   id="circle29670" />
-	<radialGradient
-   id="SVGID_2_"
-   cx="81.5115"
-   cy="14.9156"
-   r="20.5406"
-   gradientUnits="userSpaceOnUse">
-		<stop
-   offset="0"
-   style="stop-color:#FFFFFF"
-   id="stop29672" />
-		<stop
-   offset="0.921"
-   style="stop-color:#CDD7DB;stop-opacity:0"
-   id="stop29674" />
-	</radialGradient>
-	<path
-   style="fill:#e0e0e0;fill-opacity:1"
-   d="M80.03,32.12c-1.47-8.55,4.27-16.67,12.82-18.14c3.7-0.64,7.32,0.08,10.36,1.79   c-3.49-3.54-8.59-5.39-13.86-4.48c-8.55,1.47-14.29,9.59-12.82,18.14c0.83,4.85,3.81,8.79,7.78,11.03   C82.14,38.26,80.6,35.4,80.03,32.12z"
-   id="path29677" />
-	<g
-   id="g29692">
-		
-		<radialGradient
-   id="SVGID_3_"
-   cx="63.3118"
-   cy="108.1233"
-   r="5.3581"
-   gradientUnits="userSpaceOnUse">
-			<stop
-   offset="0.2244"
-   style="stop-color:#FFFFFF"
-   id="stop29681" />
-			<stop
-   offset="0.9855"
-   style="stop-color:#BEBEBE"
-   id="stop29683" />
-			<stop
-   offset="1"
-   style="stop-color:#BDBDBD"
-   id="stop29685" />
-		</radialGradient>
-		<circle
-   style="fill:#e0e0e0;fill-opacity:1"
-   cx="65.41"
-   cy="110.01"
-   r="4.03"
-   id="circle29688" />
-		<ellipse
-   style="fill:#9e9e9e;fill-opacity:1"
-   cx="65.87"
-   cy="110.58"
-   rx="3.5"
-   ry="3.48"
-   id="ellipse29690" />
-	</g>
-	<path
-   style="fill:#bdbdbd"
-   d="M57.06,110.01c0-2.35,1.06-4.39,2.69-5.85l-1.23-0.92c0,0-1.23,0.56-2.44,2.12   c-2.04,2.65-1.89,6.28-0.32,8.69c0.93-0.69,1.98-0.14,2.68,0.42C57.56,113.2,57.06,111.66,57.06,110.01z"
-   id="path29694" />
-	<radialGradient
-   id="SVGID_4_"
-   cx="28.9948"
-   cy="44.063"
-   r="18.2583"
-   gradientUnits="userSpaceOnUse">
-		<stop
-   offset="0"
-   style="stop-color:#D3CAC3"
-   id="stop29696" />
-		<stop
-   offset="1"
-   style="stop-color:#D3CAC3;stop-opacity:0"
-   id="stop29698" />
-	</radialGradient>
-	
-	<radialGradient
-   id="SVGID_5_"
-   cx="82.1801"
-   cy="12.5179"
-   r="13.9808"
-   gradientUnits="userSpaceOnUse">
-		<stop
-   offset="0"
-   style="stop-color:#D3CAC3"
-   id="stop29703" />
-		<stop
-   offset="1"
-   style="stop-color:#D3CAC3;stop-opacity:0"
-   id="stop29705" />
-	</radialGradient>
-	
-</g>
-</svg>
+   inkscape:current-layer="svg10" />&#10;    &#10;    &#10;    &#10;    &#10;    &#10;    &#10;    &#10;    &#10;    &#10;    <defs
+   id="defs10">&#10;        <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-15.4049,25.4222,-25.4222,-15.4049,54.1815,52.3627)"><stop
+     offset="0"
+     style="stop-color:rgb(195,195,195);stop-opacity:1"
+     id="stop9" /><stop
+     offset="1"
+     style="stop-color:rgb(152,152,152);stop-opacity:1"
+     id="stop10" /></linearGradient>&#10;    </defs>&#10;<path
+   style="fill:#6593a2;stroke-width:9.07087;stroke-linecap:round"
+   d="M 67.496871,11.078836 C 32.476517,23.129511 26.573563,32.244468 29.760429,41.505792 32.947297,50.767117 52.23178,54.442604 78.969383,45.242065 105.70698,36.041525 110.592,29.925936 109.83992,19.139794 108.8331,4.7002811 92.672883,2.4156481 67.496871,11.078836 Z"
+   id="path1"
+   sodipodi:nodetypes="sssss" /><path
+   style="fill:#6593a2;stroke-width:9.07087;stroke-linecap:round"
+   d="M 41.233761,50.068385 C 30.028872,53.070726 34.57615,62.53275 39.888353,82.358164 45.200558,102.18357 43.851024,112.45142 54.303433,109.65071 64.755843,106.85 62.14345,98.410832 57.378651,80.628354 52.61385,62.845877 48.92248,48.008199 41.233761,50.068385 Z"
+   id="path3"
+   sodipodi:nodetypes="sssss" /><circle
+   style="fill:#4b6b75;stroke-width:9.07088;stroke-linecap:round"
+   id="path2"
+   cx="40.807827"
+   cy="48.82988"
+   r="13.976182" /><path
+   style="fill:#6593a2;stroke-width:9.07087;stroke-linecap:round"
+   d="m 50.474137,102.00038 c -23.716489,0 -34.487127,9.96879 -34.487127,16.13449 0,6.16571 6.782273,4.80925 12.208092,4.80925 10.60501,0 12.331407,-0.73988 18.743738,-0.73988 5.055877,0 7.768786,0.8632 12.331407,0.8632 4.932562,0 6.905587,-2.71291 6.905587,-6.16571 0,-5.67244 -4.247386,-14.90135 -15.701697,-14.90135 z"
+   id="path4"
+   sodipodi:nodetypes="sssssss" /><circle
+   style="fill:#4b6b75;stroke-width:9.07085;stroke-linecap:round"
+   id="circle3"
+   cx="53.134979"
+   cy="104.40636"
+   r="11.041431" /></svg>
