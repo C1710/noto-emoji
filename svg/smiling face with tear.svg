@@ -8,12 +8,12 @@
    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
    id="svg18540"
    sodipodi:docname="smiling face with tear.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs18544" /><sodipodi:namedview
+   id="defs18544">&#10;        &#10;        &#10;    </defs><sodipodi:namedview
    id="namedview18542"
    pagecolor="#ffffff"
    bordercolor="#000000"
@@ -23,61 +23,42 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="2.1210938"
-   inkscape:cx="54.924492"
-   inkscape:cy="91.933699"
+   inkscape:zoom="4.2421876"
+   inkscape:cx="67.064455"
+   inkscape:cy="58.106813"
    inkscape:window-width="1366"
    inkscape:window-height="697"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg18540" />
-    <path
+   inkscape:current-layer="svg18540" />&#10;    <path
    d="M 64,9.64 C 1.69,9.64 0.21,79.5 0.21,93.33 c 0,13.83 28.56,25.03 63.79,25.03 35.24,0 63.79,-11.21 63.79,-25.03 C 127.79,79.5 126.32,9.64 64,9.64 Z"
    style="fill:#fcc21b;fill-rule:nonzero"
-   id="path18520" />
-    <g
-   id="g10137"
-   transform="translate(-0.20475301)"><g
-     id="g18526">
-        <path
-   d="m 42.21,66.47 c -4.49,0.04 -8.17,-4.27 -8.22,-9.62 -0.05,-5.37 3.55,-9.75 8.04,-9.79 4.48,-0.04 8.17,4.27 8.22,9.64 0.05,5.36 -3.55,9.73 -8.04,9.77 z m 44.11,0 c 4.48,-0.01 8.11,-4.36 8.1,-9.71 -0.01,-5.37 -3.66,-9.7 -8.14,-9.69 -4.49,0.01 -8.13,4.36 -8.12,9.73 0.02,5.35 3.67,9.68 8.16,9.67 z"
+   id="path18520" />&#10;    <path
+   d="m 42.005247,66.941455 c -4.49,0.04 -8.17,-4.27 -8.22,-9.62 -0.05,-5.37 3.55,-9.75 8.04,-9.79 4.48,-0.04 8.17,4.27 8.22,9.64 0.05,5.36 -3.55,9.73 -8.04,9.77 z m 44.11,0 c 4.48,-0.01 8.11,-4.36 8.1,-9.71 -0.01,-5.37 -3.66,-9.7 -8.14,-9.69 -4.49,0.01 -8.13,4.36 -8.12,9.73 0.02,5.35 3.67,9.68 8.16,9.67 z"
    style="fill:#2f2f2f;fill-rule:nonzero"
-   id="path18522" />
-        <path
-   d="m 63.89,95.08 c -14.13,0 -22.18,-8.14 -22.52,-8.48 -0.556,-0.601 -0.865,-1.39 -0.865,-2.209 0,-1.785 1.469,-3.254 3.254,-3.254 0.853,0 1.673,0.335 2.281,0.933 0.25,0.25 6.58,6.51 17.85,6.51 11.27,0 17.6,-6.25 17.87,-6.52 1.251,-1.262 3.317,-1.28 4.59,-0.04 0.626,0.609 0.979,1.447 0.979,2.32 0,0.844 -0.33,1.656 -0.919,2.26 -0.34,0.34 -8.39,8.48 -22.52,8.48 z"
-   style="fill:#2f2f2f;fill-rule:nonzero"
-   id="path18524" />
-    </g></g>
-    <g
+   id="path18522" /><path
+   id="path5"
+   style="font-variation-settings:'wght' 1000;fill:none;stroke:#2f2f2f;stroke-width:6.00003;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+   d="m 48.418355,82.92436 c 0,0 5.225084,4.659738 15.600135,4.659738 10.375049,0 15.563136,-4.659738 15.563136,-4.659738"
+   sodipodi:nodetypes="czc" />&#10;    <g
    transform="matrix(1.13352,0,0,0.833333,38.5462,11.5)"
-   id="g18530">
-        <ellipse
+   id="g18530">&#10;        <ellipse
    cx="42.12"
    cy="69"
    rx="11.88"
    ry="6"
    style="fill:#fcc21b;"
-   id="ellipse18528" />
-    </g>
-    <g
+   id="ellipse18528" />&#10;    </g>&#10;    <g
    transform="matrix(1.13352,0,0,0.833333,-5.62376,11.5)"
-   id="g18534">
-        <ellipse
+   id="g18534">&#10;        <ellipse
    cx="42.12"
    cy="69"
    rx="11.88"
    ry="6"
    style="fill:#fcc21b;"
-   id="ellipse18532" />
-    </g>
-    <g
-   transform="matrix(0.243233,-0.0274734,0.0274734,0.243233,76.92036,64.8947)"
-   id="g18538"
-   style="fill:#ffffff;fill-opacity:1">
-        <path
-   d="m 59.106132,5.3338268 c 0.3,0 0.47,0.04 0.52,0.05 0.53,0.15 1.1,0.53 1.67,1.12 3.63,3.7600002 6.07,8.9300002 8.43,13.9200002 9.24,19.61 21.87,41.1 24.81,62.88 0.02,0.19 0.06,0.37 0.11,0.54 2.63,19.370003 -6.22,28.790003 -8.04,30.490003 -7.34,6.87 -18.76,9.37 -28.49,7.84 -9.45,-1.48 -19.63,-5.99 -24.21,-14.87 -2.42,-4.69 -3.97,-11.060003 -4.05,-16.350003 0.06,-0.28 0.09,-0.57 0.08,-0.86 -0.17,-4.68 0.33,-9.39 1.49,-14.01 5.13,-20.46 16.77,-38.65 21.28,-59.33 l 0.06,-0.3 c 0.66,-3.03 1.29,-5.9 2.65,-8.3000002 0.6,-1.06 1.21,-1.83 1.87,-2.35 0.27,-0.18 1.01,-0.47 1.82,-0.47"
-   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
-   id="path18536" />
-    </g>
-</svg>
+   id="ellipse18532" />&#10;    </g>&#10;    &#10;<path
+   d="m 101.50172,94.034039 c -1.550005,-2.5 -3.310005,-7.87 -3.570005,-9.57 -0.46,-2.94 -1.7,-8.28 -2.599997,-12.74 -0.24,-1.21 -0.23,-2.88 1.289997,-2.96 1.21,-0.04 3.12,0.69 4.240005,1.07 3.29001,1.12 6.74001,3.04 9.6,4.97 5.22,3.57 8.75,9.3 8.05,15.78 -0.53,4.78 -5.02,7.94 -9.07999,7.75 -2.92,-0.14 -6.48,-1.98 -7.93001,-4.3 z"
+   fill="#fff"
+   id="path16024"
+   style="fill:#ffffff;fill-opacity:1" /></svg>
