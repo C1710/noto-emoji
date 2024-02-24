@@ -1,1 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"><path d="M115.5 126.36h-103c-5.52 0-10-4.48-10-10V26.84c0-5.76 4.67-10.43 10.43-10.43h102.13c5.76 0 10.43 4.67 10.43 10.43v89.52c.01 5.53-4.47 10-9.99 10z" fill="#e0e0e0"/><path d="M125.5 51.44H2.5V9.78c0-4.42 3.58-8 8-8h107c4.42 0 8 3.58 8 8z" fill="#1e88e5"/><g fill="#9e9e9e"><path d="M83.64 83.6h4.51v4.38h-4.51zM98 83.6h4.51v4.38H98zM112.36 83.6h4.51v4.38h-4.51zM83.64 94.47h4.51v4.38h-4.51zM98 94.47h4.51v4.38H98zM112.36 94.47h4.51v4.38h-4.51zM83.64 105.34h4.51v4.38h-4.51zM98 105.34h4.51v4.38H98zM112.36 105.34h4.51v4.38h-4.51z"/></g><text style="line-height:1.25" x="27.898" y="36.57" font-weight="400" font-size="40" font-family="sans-serif" letter-spacing="0" word-spacing="0"><tspan x="27.898" y="36.57" style="-inkscape-font-specification:'Comic Neue Bold'" font-weight="700" font-family="Comic Neue" fill="#fff">July</tspan></text><text style="line-height:1.25" x="12.999" y="111.26" font-weight="400" font-size="64.419" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#2f2f2f" stroke-width="1.61"><tspan x="12.999" y="111.26" style="-inkscape-font-specification:'Comic Neue Bold'" font-weight="700" font-family="Comic Neue">17</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   version="1.1"
+   id="svg25153"
+   sodipodi:docname="emoji_u1f4c5.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs25157" />
+  <sodipodi:namedview
+     id="namedview25155"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.9996795"
+     inkscape:cx="77.674964"
+     inkscape:cy="71.340954"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25153" />
+  <path
+     d="M115.5 126.36h-103c-5.52 0-10-4.48-10-10V26.84c0-5.76 4.67-10.43 10.43-10.43h102.13c5.76 0 10.43 4.67 10.43 10.43v89.52c.01 5.53-4.47 10-9.99 10z"
+     fill="#e0e0e0"
+     id="path25137" />
+  <path
+     d="M125.5 51.44H2.5V9.78c0-4.42 3.58-8 8-8h107c4.42 0 8 3.58 8 8z"
+     fill="#1e88e5"
+     id="path25139"
+     style="fill:#db4437" />
+  <g
+     fill="#9e9e9e"
+     id="g25143">
+    <path
+       d="M83.64 83.6h4.51v4.38h-4.51zM98 83.6h4.51v4.38H98zM112.36 83.6h4.51v4.38h-4.51zM83.64 94.47h4.51v4.38h-4.51zM98 94.47h4.51v4.38H98zM112.36 94.47h4.51v4.38h-4.51zM83.64 105.34h4.51v4.38h-4.51zM98 105.34h4.51v4.38H98zM112.36 105.34h4.51v4.38h-4.51z"
+       id="path25141" />
+  </g>
+  <text
+     style="line-height:1.25"
+     x="27.898001"
+     y="38.57"
+     font-weight="400"
+     font-size="40px"
+     font-family="sans-serif"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text25147"><tspan
+       x="27.898001"
+       y="38.57"
+       style="-inkscape-font-specification:'Comic Neue Bold'"
+       font-weight="700"
+       font-family="'Comic Neue'"
+       fill="#ffffff"
+       id="tspan25145">July</tspan></text>
+  <text
+     style="line-height:1.25"
+     x="12.999"
+     y="111.26"
+     font-weight="400"
+     font-size="64.419"
+     font-family="sans-serif"
+     letter-spacing="0"
+     word-spacing="0"
+     fill="#2f2f2f"
+     stroke-width="1.61"
+     id="text25151"><tspan
+       x="12.999"
+       y="111.26"
+       style="-inkscape-font-specification:'Comic Neue Bold'"
+       font-weight="700"
+       font-family="Comic Neue"
+       id="tspan25149">17</tspan></text>
+</svg>
