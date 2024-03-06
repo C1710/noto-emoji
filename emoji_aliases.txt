@@ -7,6 +7,16 @@
 1f52b_200d_1f4a6_fe0f; 1f52b_200d_2063_fe0f # Water pistol
 1f52b_200d_1f4a7_fe0f; 1f52b_200d_2063_fe0f # Water pistol
 
+# Person kneeling
+1f9ce; 1f9ce_200d_2642 # man kneeling
+1f9ce_1f3fb; 1f9ce_1f3fb_200d_2642 # man kneeling: light skin tone
+1f9ce_1f3fc; 1f9ce_1f3fc_200d_2642 # man kneeling: medium-light skin tone
+1f9ce_1f3fd; 1f9ce_1f3fd_200d_2642 # man kneeling: medium skin tone
+1f9ce_1f3fe; 1f9ce_1f3fe_200d_2642 # man kneeling: medium-dark skin tone
+1f9ce_1f3ff; 1f9ce_1f3ff_200d_2642 # man kneeling: dark skin tone
+1f9ce_1f9b0; 1f9ce_1f9b0_200d_2642 # man kneeling: red hair
+1f9ce_1f9b3; 1f9ce_1f9b3_200d_2642 # man kneeling: white hair
+
 # Bald person -> bald woman (or man, it doesn't make any difference, they all look the same)
 1f9d1_200d_1f9b2; 1f468_200d_1f9b2 # bald
 1f9d1_1f3fb_200d_1f9b2; 1f468_1f3fb_200d_1f9b2 # bald
